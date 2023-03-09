@@ -1,0 +1,27 @@
+---
+title: "Der Gesellschaftsabend"
+author: "Marvin Rost"
+date: "2023-03-02"
+categories: [news, code, analysis]
+image: "image.jpg"
+---
+
+Ein paar Tips für den Abend.
+
+::: {.callout-tip appearance="minimal"}
+## Dos
+
+Spaß haben!
+:::
+
+::: callout-important
+## Don'ts
+
+Nicht kotzen!
+:::
+
+This is a post with executable code.
+
+```{r}
+1 + 1
+```

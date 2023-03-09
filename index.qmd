@@ -1,0 +1,12 @@
+---
+title: "How to GDCP-Jahrestagung"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: globe
+      text: GDCP-Website
+      href: https://gdcp-ev.de/
+---
+
+Dies ist der Versuch, eine FAQ-Website für die GDCP-Jahrestagung aufzusetzen.
