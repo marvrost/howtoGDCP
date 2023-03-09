@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 3aed63fc-165a-44cf-a67a-c255d9d42262
+      url: 'https://wonderful-kitten-40a175.netlify.app'

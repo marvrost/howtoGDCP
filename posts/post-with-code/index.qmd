@@ -2,7 +2,7 @@
 title: "Der Gesellschaftsabend"
 author: "Marvin Rost"
 date: "2023-03-02"
-categories: [news, code, analysis]
+categories: [Events, Etikette]
 image: "image.jpg"
 ---
 
@@ -20,8 +20,4 @@ Spaß haben!
 Nicht kotzen!
 :::
 
-This is a post with executable code.
 
-```{r}
-1 + 1
-```

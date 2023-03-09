@@ -1,11 +1,13 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
+title: "Das Gelbe Blatt - dein Leuchtturm"
+author: "Marvin Rost"
 date: "2023-02-27"
-categories: [news]
+categories: [Organisatorisches, Events]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+Die GDCP legt mit dem *Gelben Blatt* ein kompaktes und übersichtliches Dokument vor.
+
+So wird die Zeit- und Ablaufplanung deutlich erleichtert.
 
 ![](thumbnail.jpg)
 

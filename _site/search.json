@@ -4,7 +4,7 @@
     "href": "blog.html",
     "title": "FAQ",
     "section": "",
-    "text": "Der Gesellschaftsabend\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMar 2, 2023\n\n\nMarvin Rost\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nFeb 27, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Der Gesellschaftsabend\n\n\n\n\n\n\n\nEvents\n\n\nEtikette\n\n\n\n\n\n\n\n\n\n\n\nMar 2, 2023\n\n\nMarvin Rost\n\n\n\n\n\n\n  \n\n\n\n\nDas Gelbe Blatt - dein Leuchtturm\n\n\n\n\n\n\n\nOrganisatorisches\n\n\nEvents\n\n\n\n\n\n\n\n\n\n\n\nFeb 27, 2023\n\n\nMarvin Rost\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -18,13 +18,13 @@
     "href": "posts/post-with-code/index.html",
     "title": "Der Gesellschaftsabend",
     "section": "",
-    "text": "Ein paar Tips für den Abend.\n\n\n\n\n\n\nDos\n\n\n\nSpaß haben!\n\n\n\n\n\n\n\n\nDon’ts\n\n\n\nNicht kotzen!\n\n\nThis is a post with executable code.\n\n1 + 1\n\n[1] 2"
+    "text": "Ein paar Tips für den Abend.\n\n\n\n\n\n\nDos\n\n\n\nSpaß haben!\n\n\n\n\n\n\n\n\nDon’ts\n\n\n\nNicht kotzen!"
   },
   {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "title": "Das Gelbe Blatt - dein Leuchtturm",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Die GDCP legt mit dem Gelben Blatt ein kompaktes und übersichtliches Dokument vor.\nSo wird die Zeit- und Ablaufplanung deutlich erleichtert.\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   }
 ]
